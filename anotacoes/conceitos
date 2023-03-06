@@ -1,0 +1,33 @@
+-qual a importancia de uma DB, poder relacionar, armazenar dados, acessar;
+
+-Base de dados -> estrutura de dados;
+
+-Gerenciador de banco de dados -> sistema que gerencia os dados (SGBD);
+
+-Linguagem de exploração -> linguagem que permite o acesso de dados;
+
+-Tabela -> Local onde são armazenadas as informações;
+
+-Campo -> Coluna que representa um tipo de dado;
+
+-Registro -> Linha que contém um conjunto de dados;
+
+-Tipos de dados: numéricos, string, data e hora;
+
+-DDL -> Linguagem de definição de dados, create, alter, drop (comandos de definição);
+
+-DML -> Linguagem de manipulação de dados, select, update, delete (comandos de acesso, consultas de registros, querys);
+
+-Entidade -> é algo que tem relevância e possui uma representatividade ao usuário          Entidade = Tabela; entidades físicas, e entidades abstratas (acontecimento);
+
+-Nomenclatura entidades -> palavra no substantivo, singular, iniciar com letra, sem  espaço, sem caractere especial, nome único;
+
+-Atributo -> Característica que identifica uma entidade, que pode ter um conjunto de  atributos; Simples: nenhuma característica especial, único nome; Composto: mais de um  atributo para representar algo; Multivalorado: possui mais de um valor; Determinante:  possui um valor exclusivo;
+
+-O relacionamento entre entidades pode garantir a integridade das informações, além de reduzir o espaço de armazenamento;
+
+-Primary key, chave primária -> garante a exclusividade do registro;
+
+-Foreign key, chave estrangeira -> chave de ligação entre duas entidades;
+
+-Tipos de relacionamento -> Um para muitos, um para um, muitos para muitos;
